@@ -786,7 +786,7 @@ const objArr = [
     }
 ];
 
-
+// sraka
 
 function calcAgeSum (arr) {
     let sum = 0;
