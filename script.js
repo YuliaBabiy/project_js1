@@ -798,6 +798,9 @@ function calcAgeSum (arr) {
     console.log('Total age:', sum);
 }
 
+
+// This file was modified
+
 calcAgeSum(objArr);
 
 
